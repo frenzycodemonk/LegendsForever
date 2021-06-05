@@ -1,5 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
-:root {
+:root
   --primary-color: #ccffff;
   /*this is used so that we wouldn't have to change the main color
      every time there's a change in color scheme*/
